@@ -4,6 +4,8 @@
 // By Ingemar Ragnemalm 2010
 // http://computer-graphics.se/hello-world-for-cuda.html
  
+// Test Comment 
+
 #include <stdio.h>
  
 const int N = 16; 
